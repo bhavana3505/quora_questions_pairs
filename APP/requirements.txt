@@ -1,6 +1,6 @@
 gunicorn
 streamlit
-sklearn
+scikit-learn
 fuzzywuzzy
 distance
 bs4
